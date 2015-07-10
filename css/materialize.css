@@ -1558,10 +1558,10 @@
   color: #bdbdbd !important; }
 
 .grey {
-  background-color: #9e9e9e !important; }
+  background-color: #3B3F45 !important; }
 
 .grey-text {
-  color: #9e9e9e !important; }
+  color: #3B3F45 !important; }
 
 .grey.darken-1 {
   background-color: #757575 !important; }
@@ -5126,7 +5126,8 @@ span.badge {
         width: 8.33333%;
         margin-left: 0; }
       .row .col.m2 {
-        width: 16.66667%;
+       /* width: 16.66667%;*/
+        width: 22%;
         margin-left: 0; }
       .row .col.m3 {
         width: 25%;
