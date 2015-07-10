@@ -5443,6 +5443,8 @@ em {
 
 strong {
   font-weight: 500; }
+.strong {
+  font-weight: 500; }
 
 small {
   font-size: 75%; }
